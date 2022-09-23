@@ -1,0 +1,26 @@
+div {
+    color: rgb(190, 11, 11);
+}
+
+#div1 {
+    color: blueviolet;
+}
+
+#div2 {
+    color: brown;
+}
+
+.large-font{
+    font-size: 2rem;
+}
+
+.deep-background{
+    background-color: blue;
+    font-size: 4rem;
+}
+.version{
+    background-color: green;
+    color: white;
+    padding: 2px 10px;
+    border-radius: 10px;
+}
